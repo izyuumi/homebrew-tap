@@ -1,8 +1,8 @@
 cask "macstral" do
-  version "1.0.0"
-  sha256 "17bca1374a13d7be35ce8df6321f474311d4c8a59aefaa7851a2b581a3e4330b"
+  version "0.1.0"
+  sha256 "780aaed22eb11e51835f31788d8b88f384dad2dc97b43d341c59854109624079"
 
-  url "https://github.com/izyuumi/Macstral/releases/download/v1.0.0/Macstral.zip"
+  url "https://github.com/izyuumi/Macstral/releases/download/v0.1.0/Macstral.zip"
   name "Macstral"
   desc "Hold-to-dictate macOS menu bar app powered by on-device speech recognition"
   homepage "https://github.com/izyuumi/Macstral"
